@@ -42,9 +42,9 @@ const MyWork = () => {
     { id: 4, url: 'https://www.youtube.com/watch?v=ID8M8dAbwR8', thumbnail: 'https://img.youtube.com/vi/ID8M8dAbwR8/hqdefault.jpg', title: 'Royal Singh Interview' },
     { id: 5, url: 'https://youtu.be/sIniidzX3Hc', thumbnail: 'https://img.youtube.com/vi/sIniidzX3Hc/hqdefault.jpg', title: 'Love Gill Interview' },
     { id: 6, url: 'https://youtu.be/xjR4RfNgNww', thumbnail: 'https://img.youtube.com/vi/xjR4RfNgNww/hqdefault.jpg', title: 'Geeta Zaildar Interview' },
-    { id: 7, url: 'https://youtu.be/Fo2sbWiUK5g?si=siMcG6mbEZVhnNOd', thumbnail: 'https://img.youtube.com/vi/xjR4RfNgNww/hqdefault.jpg', title: 'Geeta Zaildar Interview' },
-    { id: 8, url: 'https://youtu.be/UwMdox8ZcSw?si=z2mhNoUOhZUgd4IF', thumbnail: 'https://img.youtube.com/vi/xjR4RfNgNww/hqdefault.jpg', title: 'Geeta Zaildar Interview' },
-    { id: 9, url: 'https://youtu.be/Fo2sbWiUK5g?si=siMcG6mbEZVhnNOd', thumbnail: 'https://img.youtube.com/vi/xjR4RfNgNww/hqdefault.jpg', title: 'Geeta Zaildar Interview' },
+    { id: 7, url: 'https://youtu.be/Fo2sbWiUK5g?si=siMcG6mbEZVhnNOd' },
+    { id: 8, url: 'https://youtu.be/UwMdox8ZcSw?si=z2mhNoUOhZUgd4IF' },
+    { id: 9, url: 'https://youtu.be/Fo2sbWiUK5g?si=siMcG6mbEZVhnNOd' },
   ];
 
   // Podcasts (YouTube)
