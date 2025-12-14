@@ -221,4 +221,4 @@ const MyWork = () => {
   );
 };
 
-export default MyWork;   this is my full code but youtube autogenrted thumbail is not correct all are sme 7,8,9 id
+export default MyWork;  
