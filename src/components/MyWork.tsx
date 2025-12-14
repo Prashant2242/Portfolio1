@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 import { ChevronLeft, ChevronRight, Youtube, Instagram, Image as ImageIcon } from 'lucide-react';
-
+//
 import image1 from "../assets/image1.jpg";
 import image2 from "../assets/image2.png";
 import image3 from "../assets/image3.jpg";
